@@ -1,7 +1,19 @@
 # ProyectoConjunto_JMOCHOA_KVGARCIA_ANUÑO
 Primera tarea
 
-<img style="float: right; margin: 0px 0px 15px 15px;" src="http://quantlabs.net/blog/wp-content/uploads/2015/11/pythonlogo.jpg" width="200px" height="100px" />
+## ¿Qué se espera del curso? 
+
+En primer lugar, aprender a utilizar las herramientas las cuales ya se nos introdujeron algunas, como `Git`, `GitHub` y `GitKraken`, ademas de profundizar lo que se sabe de `Python`
+
+<img style="float: right; margin: 5px 5px 5px 5px;" src="https://miro.medium.com/max/1125/1*wotzQboYWAfaj-7bvGNIkQ.png" width="200px" height="100px"/> 
+
+Sin embargo, creo que las expectivas recaen no solo en el hecho de poder simular aspectos financieros para resolver problemas concisos sino poder interpretarlos y poder ver **realmente** como se emplea en la realidad. Es decir, en ocasiones algunos profesores nos dicen cosas como "la curva de demanda es la siguiente ecuacion y en base a esto ustedes deben de calcular bla bla bla..." pero bueno que esta ecuacion la debemos de tomar como dogma de fe, en el mundo real ¿de dónde sale esta ecuación?, ¿qué tan apegada a la realidad es?, ¿cómo yo puedo calcular mi propia ecuación?, ¿bajo qué supuestos se implementa? y asi un numero de preguntas que muchas veces nos dejas materias que son muy teoricas.
+
+
+
+## Resumen [Articulo]
+
+<img style="float: right; margin: 0px 0px 15px 15px;" src="http://quantlabs.net/blog/wp-content/uploads/2015/11/pythonlogo.jpg" width="120px" height="50px" />
 
 El articulo [Python has brought computer programming to a vast new audience](https://www.economist.com/science-and-technology/2018/07/19/python-has-brought-computer-programming-to-a-vast-new-audience) afirma que el lenguaje de programación conocido como 'Python' ha aumentado su popularidad debido a los siguientes principios con los que fueron creados:
 
