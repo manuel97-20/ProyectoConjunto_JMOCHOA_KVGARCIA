@@ -1,4 +1,4 @@
-# ProyectoConjunto_JMOCHOA_KVGARCIA
+# ProyectoConjunto_JMOCHOA_KVGARCIA_ANUÑO
 Primera tarea
 Principios de este nuevo lenguaje:
 
